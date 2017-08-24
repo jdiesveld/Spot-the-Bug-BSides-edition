@@ -18,7 +18,5 @@ if ($hmac !== $_POST['hmac']) {
 }
 
 echo exec("host ".$_POST['host']);
-
+/* Do you know the answer? Send your submission to <bsides@securify.nl> before the end of September and win a prize! */
 ?>
-
-<!-- Know the answer? Send your submission to <bsides@securify.nl> -->
